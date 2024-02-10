@@ -1,0 +1,1 @@
+I developed SQL queries to perform CRUD (Create, Read, Update, Delete) operations on a database and integrated these functionalities with a web interface, enabling users to seamlessly manage data through the web.
